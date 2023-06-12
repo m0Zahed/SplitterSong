@@ -12,7 +12,7 @@
 A web application for music source separation based on the Open-Unmix project.
 
 ## Requirements
-This application requires that your GPU be compatible with CUDA SDK version 9.0+. You can check whether your GPU can run the application by cross-referencing its microarchitecture ![here.](https://en.wikipedia.org/wiki/CUDA#:~:text=*%20b-,GPUs%20supported,-%5Bedit%5D) 
+This application requires that your GPU be compatible with CUDA SDK version 9.0+. You can check whether your GPU can run the application by cross-referencing its microarchitecture [here.](https://en.wikipedia.org/wiki/CUDA#GPUs_supported) 
 
 ## Features
 ---
