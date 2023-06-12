@@ -1,9 +1,9 @@
 # SplitterSong
 
 
-[![OpenUnmix](images/openunmix-logo.png)](https://github.com/sigsep/open-unmix-pytorch)
+[![OpenUnmix](https://img.shields.io/pypi/pyversions/openunmix.svg)](https://github.com/sigsep/open-unmix-pytorch)
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/openunmix.svg)](https://pypi.python.org/pypi/openunmix)
-[![PyTorch CUDA 12](images/pytorch-cuda12-logo.png)](https://pytorch.org/)
+[![[PyTorch](images/pytorch-cuda12-logo.png)](https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png)](https://pytorch.org/)
 [![React Router](https://img.shields.io/badge/React%20Router-Latest%20Version-blue.svg)](https://reactrouter.com/)
 [![Django REST](https://img.shields.io/badge/Django%20REST-Latest%20Version-green.svg)](https://www.django-rest-framework.org/)
 
