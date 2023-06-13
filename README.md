@@ -18,7 +18,7 @@ This application requires that your GPU be compatible with CUDA SDK version 9.0+
 
 - Separates music sources (vocals, bass, drums, harmonics, other) from a given audio input
 - Built using React, Django, and Open-Unmix
-- Supports TensorFlow with CUDA 12 for GPU acceleration
+- Supports pyTorch with CUDA 12 for GPU acceleration
 
 ## Usage
 
